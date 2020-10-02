@@ -7,7 +7,7 @@
 
 Things this repo will include:
 - "requirements.txt" generator. (Added)
-- Flake8 style checker.
+- Flake8 style checker. (Added)
 - JavaScript Standard style checker.
 
 
